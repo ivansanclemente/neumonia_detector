@@ -31,3 +31,4 @@ del computador
 con extensión .csv
 - Presione el botón 'PDF' para descargar un archivo PDF con la información desplegada en la interfaz
 - Presión el botón 'Limpiar' si desea cargar una nueva imagen
+-Esta es una adicion
